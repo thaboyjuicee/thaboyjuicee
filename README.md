@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Basil</h1>
-<h3 align="center"> </h3>
+<h3 align="center"> ISoftware Engineer currently learning mobile development using flutter! Kill multiple birds with one code base? Why not </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkhamkoder&label=Profile%20views&color=0e75b6&style=flat" alt="arkhamkoder" /> </p>
 
