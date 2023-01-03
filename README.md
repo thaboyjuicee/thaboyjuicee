@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm John Basil</h1>
 <h3 align="center"> ISoftware Engineer currently learning mobile development using flutter! Kill multiple birds with one code base? Why not </h3>
 
+<img src="https://render.fineartamerica.com/images/images-profile-flow/400/images-medium-large-5/batman-pixel-symbol.jpg">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkhamkoder&label=Profile%20views&color=0e75b6&style=flat" alt="arkhamkoder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arkhamkoder" alt="arkhamkoder" /></a> </p>
