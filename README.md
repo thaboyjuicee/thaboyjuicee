@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Basil</h1>
-<h3 align="center"> ISoftware Engineer currently learning mobile development using flutter! Kill multiple birds with one code base? Why not </h3>
+<h3 align="center"> A Software Engineer currently learning mobile development using flutter! Kill multiple bats with one code base? Why not! </h3>
 
 <img src="https://render.fineartamerica.com/images/images-profile-flow/400/images-medium-large-5/batman-pixel-symbol.jpg">
 
