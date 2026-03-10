@@ -8,7 +8,7 @@
   <a href="https://github.com/yourusername">
     <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
-  <a href="https://github.com/yourusername?tab=followers">
+  <a href="https://github.com/thaboyjuicee?tab=followers">
     <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=flat" alt="followers" />
   </a>
   <a href="https://github.com/yourusername">
