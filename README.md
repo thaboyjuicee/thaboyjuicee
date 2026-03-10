@@ -5,14 +5,14 @@
 <h3 align="center">Golang-first developer building backends, bots, mobile apps, and scalable product experiments</h3>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/thaboyjuicee">
+    <img src="https://komarev.com/ghpvc/?username=thaboyjuicee&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
   <a href="https://github.com/thaboyjuicee?tab=followers">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=flat" alt="followers" />
+    <img src="https://img.shields.io/github/followers/thaboyjuicee?label=Followers&style=flat" alt="followers" />
   </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/github/stars/yourusername?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="stars" />
+  <a href="https://github.com/thaboyjuicee">
+    <img src="https://img.shields.io/github/stars/thaboyjuicee?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="stars" />
   </a>
 </p>
 
@@ -115,12 +115,12 @@ I primarily use Go for:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thaboyjuicee&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaboyjuicee&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=thaboyjuicee&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -150,19 +150,19 @@ I’m usually building some mix of:
 ## 🌍 Socials
 
 <p align="left">
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/thaboyjuicee" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourhandle" target="_blank">
+  <a href="https://linkedin.com/in/thaboyjuicee" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/yourhandle" target="_blank">
+  <a href="https://x.com/thaboyjuicee" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://t.me/yourhandle" target="_blank">
+  <a href="https://t.me/thaboyjuicee" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:you@example.com" target="_blank">
+  <a href="mailto:johnbasilogbhemhe@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
